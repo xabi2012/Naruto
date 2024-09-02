@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+.h2{
+    color: white;
+    position: absolute;
+    left: 40px;
+    top: 30px;
+}
+body{
+    background: rgb(4, 11, 32);
+}
+.select{
+    position: absolute;
+    left: 300px;
+    top: 30px;
+}
+.reg{
+    color: white;
+    position: absolute;
+    left: 900px;
+    top: 30px;
+}
+.btn{
+position: absolute;
+width: 175px;
+height: 50px;
+left: 1100px;
+top: 20px;
+border-radius: 15px;
+background: rgb(191, 175, 242);
+color: white;
+}
+.divv{
+    background-color: rgb(35, 32, 40);
+    border-radius: 32px;width: 325px;
+    height: 240px;
+    color: white;
+    position: absolute;
+    top: 482px;
+    left: 10px;
+}
+.Imya{
+   position: absolute;
+   left: 60px;
+   top: 40px;
+}
+.text{
+    position: absolute;
+   left: 20px;
+   top: 99px;
+}
+.Brawler{
+    position: absolute;
+    left: 40px;
+    top: -270px;  
+}
+.divv2{
+    background-color: rgb(35, 32, 40);
+    border-radius: 32px;width: 325px;
+    height: 240px;
+    color: white;
+    position: absolute;
+    top: 482px;
+    left: 350px;
+}
+.divv3{
+    background-color: rgb(35, 32, 40);
+    border-radius: 32px;width: 325px;
+    height: 240px;
+    color: white;
+    position: absolute;
+    top: 482px;
+    left: 690px;
+} 
+.divv4{
+    background-color: rgb(35, 32, 40);
+    border-radius: 32px;width: 325px;
+    height: 240px;
+    color: white;
+    position: absolute;
+    top: 482px;
+    left: 1025px;
+} 
+.h22{
+    color: white;
+    position: absolute;
+    left: 40px;
+    top: 1000px;
+}
+.iopp{
+    color: white;
+    position: absolute;
+    left: 1200px;
+    top: 1000px;
+}
+.iopp2{
+    color: white;
+    position: absolute;
+    left: 1100px;
+    top: 1000px;
+}
